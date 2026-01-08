@@ -1,0 +1,57 @@
+﻿Champ,Identifiant,Type
+Identifiant,uid,Texte
+Slug,slug,Texte
+URL canonique,canonicalurl,Texte
+Titre,title_fr,Texte
+Description,description_fr,Texte
+Description longue,longdescription_fr,Texte
+Détail des conditions,conditions_fr,Texte
+Mots clés,keywords_fr,Texte
+Image,image,Texte
+Crédits image,imagecredits,Texte
+Aperçu,thumbnail,Texte
+Image source,originalimage,Texte
+Dernière mise à jour,updatedat,Date et heure
+Résumé horaires,daterange_fr,Texte
+Première date - Début,firstdate_begin,Date et heure
+Première date - Fin,firstdate_end,Date et heure
+Dernière date - Début,lastdate_begin,Date et heure
+Dernière date - Fin,lastdate_end,Date et heure
+Horaires détaillés,timings,Texte
+Code d'accessibilité,accessibility,Texte
+Accessibilité,accessibility_label_fr,Texte
+Identifiant du lieu,location_uid,Texte
+Coordonnées géographiques,location_coordinates,Point géo
+Nom du lieu,location_name,Texte
+Adresse,location_address,Texte
+Arrondissement,location_district,Texte
+Code INSEE,location_insee,Texte
+Code postal,location_postalcode,Texte
+Ville,location_city,Texte
+Département,location_department,Texte
+Région,location_region,Texte
+Pays,location_countrycode,Texte
+Image du lieu,location_image,Texte
+Crédits de l'image du lieu,location_imagecredits,Texte
+Téléphone du lieu,location_phone,Texte
+Site web du lieu,location_website,Texte
+Liens du lieu,location_links,Texte
+Tags du lieu,location_tags,Texte
+Description du lieu,location_description_fr,Texte
+Accès / Itinéraire,location_access_fr,Texte
+Événement physique ou en ligne,attendancemode,Texte
+Lien d'accès en ligne,onlineaccesslink,Texte
+État de l'événement,status,Texte
+Age minimum,age_min,Nombre Entier
+Age maximum,age_max,Nombre Entier
+Agenda d'origine (titre),originagenda_title,Texte
+Agenda d'origine (uid),originagenda_uid,Texte
+Contributeur: Email,contributor_email,Texte
+Contributeur: Téléphone,contributor_contactnumber,Texte
+Contributeur: Nom,contributor_contactname,Texte
+Contributeur: Fonction,contributor_contactposition,Texte
+Contributeur: organisation,contributor_organization,Texte
+Catégorie,category,Texte
+Nom du pays,country_fr,Texte
+Registration,registration,Texte
+Liens additionnels,links,Texte
